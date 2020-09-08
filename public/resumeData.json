@@ -1,40 +1,40 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
+    "name": "Pascal Ojinnaka",
+    "occupation": "Full Stack Developer",
+    "description": "Full Stack React Developer by Day, Freelancer && Digital Marketer by Night.",
     "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "bio": "A Full-stack developer, with knowledge about the process of sofware development using the following languages: Javascript, ReactJs, C#, Asp.Net Core, Sql, and PHP. Additional skills include: Microsot Azure Developer(Cloud Developer).",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "email": "ojinnnakapascal@gmail.com",
+    "phone": "+234 816 171 8694 ",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "VGC",
+      "city": "Lagos",
+      "state": "Lagos",
+      "zip": "100100"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "https://passycj.netlify.app/",
+    "resumedownload": "https://drive.google.com/file/d/1h5F4mZYUEf49Ip-N4J53Vxug3vjGZ8DN/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/pascal.ojinnaka.9/",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/pascal-ojinnaka/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/passy_cj/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "http://github.com/passy4ucj",
         "className": "fa fa-github"
       }
     ]
